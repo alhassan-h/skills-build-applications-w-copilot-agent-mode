@@ -130,3 +130,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # Enable CORS
 CORS_ALLOW_ALL_ORIGINS = True
+
+# Add the codespace Django REST API endpoint suffix
+CODESPACE_API_SUFFIX = 'https://vigilant-fiesta-6wrjj9pq5gvh76p-8000.app.github.dev/'
